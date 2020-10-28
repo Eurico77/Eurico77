@@ -13,3 +13,7 @@ My passion for programming is related to create incredible things and help peopl
 
 ### 🔭&nbsp; Goals for 2020 
 - development.....
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eurico77&show_icons=true" alt="fhugoduarte" /> </p>
+
+

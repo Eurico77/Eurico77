@@ -1,6 +1,7 @@
 
 <p align="left">
-   <h1>Eurico Magalhaes Backend enginer Developer
+   <h1>Eurico Magalhaes 
+   <h2>Backend && Frontend enginer
 </p>
 
 ### Meus objetivos: 

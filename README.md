@@ -33,5 +33,5 @@
 
 ## Minhas contribuições :
 
-![Eurico77](https://github-readme-stats.vercel.app/api?username=eurico77&show_icons=true&theme=dracula)
+![Eurico77](https://github-readme-stats.vercel.app/api?username=eurico77&show_icons=true&theme=monokai)
 

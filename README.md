@@ -1,9 +1,12 @@
 
 <p align="left">
+   <span>Olá, seja bem vindo me chamo:
    <h1>Eurico Magalhaes 
-   <h2>Backend && Frontend Enginer
+      <span> sou:
+   <h2>Backend && Frontend Enginer 🧑🏻‍💻 
+      <span> e sou estudante de Sistemas de informação 👨🏻‍🎓
 </p>
-      <p align="center"> <img src="https://komarev.com/ghpvc/?username=eurico77" alt="eurico" /> </p>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurico77" alt="eurico" /> </p>
 
 ### Meus objetivos: 
 * Aprender sobre design e investimentos 💰 

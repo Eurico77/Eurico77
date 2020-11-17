@@ -1,10 +1,8 @@
 
 <p align="left">
-   <span>Olá, seja bem vindo me chamo:
-   <h1>Eurico Magalhaes 
-      <span> sou:
+   <h1>Eurico Magalhaes Neto  🙋🏻‍♂️ 
    <h2>Backend && Frontend Enginer 🧑🏻‍💻 
-      <span> e sou estudante de Sistemas de informação 👨🏻‍🎓
+   <h2>  sou estudante de Sistemas de informação 👨🏻‍🎓
 </p>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurico77" alt="eurico" /> </p>
 

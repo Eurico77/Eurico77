@@ -1,7 +1,7 @@
 
 <p align="left">
-   <h1>Eurico Magalhaes Neto  🙋🏻‍♂️ 
-   <h2>Backend && Frontend Enginer 🧑🏻‍💻 
+   <h1>Eurico Magalhães 
+   <h2> Software Developer FullStack 
    <h2>  sou estudante de Sistemas de informação 👨🏻‍🎓
 </p>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurico77" alt="eurico" /> </p>

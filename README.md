@@ -3,6 +3,7 @@
    <h1>Eurico Magalhaes 
    <h2>Backend && Frontend Enginer
 </p>
+      <p align="center"> <img src="https://komarev.com/ghpvc/?username=eurico77" alt="eurico" /> </p>
 
 ### Meus objetivos: 
 * Aprender sobre design e investimentos 💰 

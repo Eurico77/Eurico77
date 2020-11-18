@@ -1,8 +1,8 @@
 
 <p align="left">
    <h1>Eurico Magalhães 
-   <h2> Software Developer FullStack 
-   <h2>  sou estudante de Sistemas de informação 👨🏻‍🎓
+   <h2> Software Developer FullStack and 
+information systems student 👨🏻‍🎓
 </p>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurico77" alt="eurico" /> </p>
 

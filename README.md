@@ -35,5 +35,5 @@ information systems student 👨🏻‍🎓
 ## Minhas contribuições :
 
 ![Eurico77](https://github-readme-stats.vercel.app/api?username=eurico77&show_icons=true&theme=monokai)
-<img align="right" alt="Eurico77's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico77&hide=java&hide_border=true&theme=monokai" />
+<img align="botton" alt="Eurico77's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico77&hide=java&hide_border=true&theme=monokai" />
 

@@ -1,5 +1,5 @@
 
-<p align="left">
+ <p align="left">
    <h1>Eurico Magalhães 
    <h2> Software Developer FullStack and 
 information systems student 👨🏻‍🎓

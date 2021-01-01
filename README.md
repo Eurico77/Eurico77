@@ -7,10 +7,10 @@ information systems student 👨🏻‍🎓
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurico77" alt="eurico" /> </p>
 
 ### Meus objetivos: 
-* Aprender sobre design e investimentos 💰 
-* Ajudar pessoas que gostem da área de desenvolvimento ou que queiram começar👨‍🎓
-* Contribuir com a comunidade 😁.  
-* E essa lista vem crescendo a cada dia mais! ⏭
+* Ajudar pessoas que gostem da área de desenvolvimento ou que queiram começar!!
+* Dominar o Javascript!
+* Conseguir fazer ao menos um commit por dia!!!
+
  
  **Tecnologias que trabalho:**
 <p align="left">

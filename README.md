@@ -1,6 +1,6 @@
  <p align="left">
-   <h1> Eurico Magalhães 
-   <h2> Software Developer 
+   <h1>Eurico Magalhães 
+   <h2>Software Developer Full stack
 with the stack NodeJs and Vuejs and Aws solutions 
 </p>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=eurico77" alt="eurico" /> </p>

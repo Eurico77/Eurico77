@@ -7,7 +7,6 @@ with the stack NodeJs and Vuejs and Aws solutions
 
 ### Meus objetivos: 
 * Ajudar pessoas que gostem da área de desenvolvimento ou que queiram começar!!
-* Dominar o Javascript!
 * Conseguir fazer ao menos um commit por dia!!!
 
  

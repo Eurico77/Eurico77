@@ -17,4 +17,6 @@
           width="40" /></a> &nbsp;&nbsp;
       </p>
       </p>
-       ![Eurico77](https://github-readme-stats.vercel.app/api?username=eurico77&show_icons=true&theme=monokai)
+![Eurico77](https://github-readme-stats.vercel.app/api?username=eurico77&show_icons=true&theme=monokai)
+
+       

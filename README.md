@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eurico</h1>
 <h3 align="center">I'm Fullstack developer from Brazil</h3>
 
-![Eurico77](https://github-readme-stats.vercel.app/api?username=eurico77&show_icons=true&theme=monokai)
+<p align="center"> ![Eurico77](https://github-readme-stats.vercel.app/api?username=eurico77&show_icons=true&theme=monokai)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

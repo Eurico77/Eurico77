@@ -1,5 +1,5 @@
 <h1 align="rigth">Hi 👋, I'm Eurico</h1>
-<h3 align="rigth">I'm Fullstack developer from Brazil</h3>
+<h3 align="rigth">I'm Fullstack developer</h3>
   <p> Minhas redes:
       <p align="left">
         <a href="https://www.instagram.com/eurico_magalhaes/?hl=pt-br" target="blank"><img align="center"

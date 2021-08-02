@@ -7,8 +7,10 @@
   
 </p>
 
+<p align="left"> 🧑🏻‍💻 Skills: ⤵️ </p>
+
 <p align="left">
-  🧑🏻‍💻 Skills: <strong><img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> | 
+  <strong><img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> | 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> |
   

@@ -7,7 +7,7 @@
   
 </p>
 
-<p align="left"> 🧑🏻‍💻 Skills: ⤵️ </p>
+**<p align="left"> 🧑🏻‍💻 Skills: ⤵️ </p>**
 
 <p align="left">
   

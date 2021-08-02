@@ -13,6 +13,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+</p>
 
 **DevOps**
 
@@ -20,8 +21,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-</p>
 
 <p align="left">
   📍 Here, my contacts: ⤵️
@@ -32,8 +31,6 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   <a href="https://www.linkedin.com/in/eurico-magalh%C3%A3es/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  <a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
 </a>
 
 </p>  

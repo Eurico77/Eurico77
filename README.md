@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi, my name is Eurico! I'm a backend software developer, and I do well with the frontend!<br>
-  Currently, I have been dedicated to consolidating my knowledge of design patterns and software architecture.
+  <h1> Hi, my name is Eurico! I'm a backend software developer, and I do well with the frontend!<br>
+  Currently, I have been dedicated to consolidating my knowledge of design patterns and software architecture. </h1>
   
 </p>
 

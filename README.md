@@ -1,7 +1,7 @@
 **About-me**
 
 
-<image src ="https://media1.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif?cid=ecf05e47fwl65mzoy8or2nrvfbcf9o3l8l7287d1yu9xb69l&rid=giphy.gif&ct=g"></image>
+<image src ="https://giphy.com/gifs/memecandy-hrRJ41JB2zlgZiYcCw?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/"></image>
 
 <p align="left"> 
   <h3> Hi, my name is Eurico! I'm a backend software developer, and I do well with the frontend!<br>

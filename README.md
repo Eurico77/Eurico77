@@ -1,15 +1,13 @@
 **About-me**
 
 
-<image src ="https://giphy.com/gifs/memecandy-hrRJ41JB2zlgZiYcCw?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/"></image>
+![](./images/image.jpg) 
 
 <p align="left"> 
   <h3> Hi, my name is Eurico! I'm a backend software developer, and I do well with the frontend!<br>
   Currently, I have been dedicated to consolidating my knowledge of design patterns and software architecture. </h1>
   
 </p>
-
-
 
 **<p align="left"> 🧑🏻‍💻 Skills: ⤵️ </p>**
 
@@ -59,5 +57,3 @@
 </a>
 
 </p>  
-
-       

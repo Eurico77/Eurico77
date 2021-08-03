@@ -1,7 +1,7 @@
 **About-me**
 
 <p align="rigth" >
-<image src ="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" height="40px" width ="40px"></image>
+<image src ="https://media1.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif?cid=ecf05e47fwl65mzoy8or2nrvfbcf9o3l8l7287d1yu9xb69l&rid=giphy.gif&ct=g" height="40px" width ="40px"></image>
 </p>
 
 

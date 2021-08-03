@@ -53,10 +53,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-📍 **Here, my contacts:** ⤵️
-<p align="left">
- 
-</p>
+**Here, my contacts:** ⤵️
 
 <p align="left">
   <a href="euricomagalhaes61@gmail.com" alt="Gmail">

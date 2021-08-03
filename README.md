@@ -1,5 +1,5 @@
 **About-me**
-<image src ="https://media0.giphy.com/media/ocDxgE43TxdsFRRlR1/giphy.gif?cid=ecf05e470oqxprr0g883dakfnkpj5mpuyo3m223lyui474s5&rid=giphy.gif&ct=g"></image>
+<image src ="https://media0.giphy.com/media/ocDxgE43TxdsFRRlR1/giphy.gif?cid=ecf05e470oqxprr0g883dakfnkpj5mpuyo3m223lyui474s5&rid=giphy.gif&ct=g" height="40px" width ="40px"></image>
 
 <p align="left"> 
   <h3> Hi, my name is Eurico! I'm a backend software developer, and I do well with the frontend!<br>

@@ -1,7 +1,6 @@
 **About-me**
 
 
-![](./images/imagen.jpg) 
 
 <p align="left"> 
   <h3> Hi, my name is Eurico! I'm a backend software developer, and I do well with the frontend!<br>

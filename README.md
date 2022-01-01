@@ -1,14 +1,9 @@
-**About-me**
-
-
 
 <p align="center"> 
-  <h1> Hey dev, Welcome to my GitHub! 🛸
+  <h1> Hey dev, Welcome to my GitHub! </br>
   </h1>
   
 </p>
-
-**<p align="left"> 🧑🏻‍💻 Skills: ⤵️ </p>**
 
 </p>
 

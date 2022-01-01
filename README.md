@@ -2,9 +2,9 @@
 
 
 
-<p align="left"> 
-  <h3> Hi, my name is Eurico! I'm a backend software developer, and I do well with the frontend!<br>
-  Currently, I have been dedicated to consolidating my knowledge of design patterns and software architecture. </h1>
+<p align="center"> 
+  <h1> Hey dev, Welcome to my GitHub! 🛸
+  </h1>
   
 </p>
 

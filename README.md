@@ -52,9 +52,6 @@ const euricoMagalhaes = {
 </a>
 </p> 
 
-<p align="center">
-<img width="100%" 
-  src=""
-/>
+ ***<h1 align="center"> That is all, Bye!***</h1>
 
 </p>

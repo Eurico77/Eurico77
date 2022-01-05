@@ -1,14 +1,16 @@
 
-<span style="display:flex;">
+<span>
 <p align="left"> 
   <h2> Hey dev, Welcome to my GitHub!
   My name is Eurico, im a software engineer developer
   </h1>
 </p>
-<p align="rigth" style="width:100%;height:0;padding-bottom:75%;position:relative;"> 
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476d8zbsf8ccqa7ym3t34685z0s9wtjj942s8632vv&rid=giphy.gif&ct=g" alt="Gif" style="width:100%;height:50%;position:absolute;">
-</p>
+<p align="rigth"> 
+ <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eurico77"
+>
 
+</p>
+ <!-- <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476d8zbsf8ccqa7ym3t34685z0s9wtjj942s8632vv&rid=giphy.gif&ct=g" alt="Gif" style="width:100%;height:50%;position:absolute;"> -->
 </span>
 
 **About me** ⤵️
@@ -39,15 +41,6 @@ const euricoMagalhaes = {
 
 ```
 </p>
-
-<p align="center" >
-<img width="100%" 
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eurico77"
-/>
-<p/>
-
-
-
 
 **Here, my contacts:** ⤵️
 

@@ -17,7 +17,7 @@
 
 <p align="center">
 
-```
+```js
 const euricoMagalhaes = {
     code: ["Javascript", "Typescript"],
     askMeAbout: ["APIs", "microservices", "integration technologies", "web dev", "music", "coffee"],

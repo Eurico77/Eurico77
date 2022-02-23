@@ -30,13 +30,6 @@ const euricoMagalhaes = {
         },
         devOps: ["AWS", "Azure", "Heroku", "Vercel"],
         databases: ["mongo", "MySql", "sqlite", "SQLServer", "RDS", "DynamoBD", "REDIS"]
-    },
-    architecture: [
-      "Microservices Architecture", 
-      "Serverless Architecture", 
-    ],
-    currentFocus: "Applications development with Javascript, React and Vue using AWS infrainstructure",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 
 ```

@@ -5,13 +5,6 @@
   My name is Eurico, im a software engineer developer
   </h1>
 </p>
-<p align="rigth"> 
- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eurico77"
->
-
-</p>
- <!-- <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476d8zbsf8ccqa7ym3t34685z0s9wtjj942s8632vv&rid=giphy.gif&ct=g" alt="Gif" style="width:100%;height:50%;position:absolute;"> -->
-</span>
 
 **About me** ⤵️
 

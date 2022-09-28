@@ -1,11 +1,3 @@
-
-<span>
-<p align="left"> 
-  <h2> Hey dev, Welcome to my GitHub!
-  My name is Eurico, im a software engineer developer
-  </h1>
-</p>
-
 **About me** ⤵️
 
 <p align="center">

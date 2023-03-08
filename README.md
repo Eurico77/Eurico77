@@ -4,7 +4,12 @@
   <p align="center">Sênior Software Enginner Backend</h2>
 </div>
 
-
+<div align="center">
+  <a href="https://github.com/eurico77">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eurico77&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurico77&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <h3 align="center""> :rocket: &nbsp;My Skills </h3>
 
@@ -21,11 +26,5 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">                                                                                                                                  
 
 </div><br>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 </div>
 

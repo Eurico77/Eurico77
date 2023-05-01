@@ -4,7 +4,7 @@
   <p align="center">Software Enginner</h2>
 </div>
 
-<h3 align="center""> :rocket: &nbsp;My Skills </h3>
+<h3 align="center""> :rocket: &nbsp;My Favorit Techs </h3>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

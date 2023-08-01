@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Pleased to meet you! I'm <a href="https://github.com/eurico77"><i>Eurico</i></a>🚀</h1>
-  <p align="center">💻 I'm a software developer fullstack degree in information systems from the catholic university of Quixadá
+  <p align="center">💻 I'm a software developer fullstack and content creator
   <p align="center">Software Enginner</h2>
 </div>
 

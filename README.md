@@ -4,6 +4,12 @@
   <p align="center">Software Engineer</p>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Programmer Cat" width="300" />
+  <br>
+</div>
+
+
 <h3 align="center"> :rocket: &nbsp;My Stack </h3>
 
 <div align="center" valign="top">
@@ -16,12 +22,3 @@
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div><br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Programmer Cat" width="300" />
-  <br>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Sloth" width="300" />
-  <br>
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" alt="Tech Dog" width="300" />
-  <br>
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Developer Duck" width="300" />
-</div>
